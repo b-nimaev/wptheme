@@ -55,12 +55,16 @@
 	  <div class="container">
 	    <div class="row">
 	      <div class="col">
-	        <h1>Web Design and Develop</h1>
-	        <h2>Web Design and Develop</h2>
-	        <h3>Web Design and Develop</h3>
-	        <h4>Web Design and Develop</h4>
-	        <h5>Web Design and Develop</h5>
-	        <h6>Web Design and Develop</h6>
+	      	
+			<!--
+		        <h1>Web Design and Develop</h1>
+		        <h2>Web Design and Develop</h2>
+		        <h3>Web Design and Develop</h3>
+		        <h4>Web Design and Develop</h4>
+		        <h5>Web Design and Develop</h5>
+		        <h6>Web Design and Develop</h6>
+		    -->
+
 	      </div>
 	      <div class="col-md-5 ml-auto">
 	        <h1>Web Design & Develop</h1>
